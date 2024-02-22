@@ -9,10 +9,9 @@
       "parsers": [
         {
           "name": "to-sdtf",
-          "options": {
-              "formatTokens": {
-                  "color": "hsl"
-              }
+          "output": {
+            "type": "file",
+            "filePath": "public/tokens.swift"
           }
         }
       ]
