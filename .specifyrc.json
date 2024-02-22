@@ -9,9 +9,10 @@
       "parsers": [
         {
           "name": "to-sdtf",
-          "output": {
-            "type": "file",
-            "filePath": "output/tokens.json"
+          "options": {
+              "formatTokens": {
+                  "color": "hsl"
+              }
           }
         }
       ]
