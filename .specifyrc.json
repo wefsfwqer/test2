@@ -8,7 +8,7 @@
       "name": "SDTF",
       "parsers": [
         {
-          "name": "to-sdtf",
+          "name": "to-swift",
           "output": {
             "type": "file",
             "filePath": "public/tokens.swift"
