@@ -11,7 +11,7 @@
           "name": "to-swift",
           "output": {
             "type": "file",
-            "filePath": "public/tokens.swift"
+            "filePath": "public/tokens1.swift"
           }
         }
       ]
