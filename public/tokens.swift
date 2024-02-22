@@ -92,7 +92,7 @@ class DesignTokens {
     static let primitiveColorPurple9 = Color(red: 0.78039, green: 0.73725, blue: 1.0, opacity: 1)
     static let primitiveColorPurple10 = Color(red: 0.66667, green: 0.58431, blue: 1.0, opacity: 1)
     static let primitiveColorPurple11 = Color(red: 0.58039, green: 0.45490, blue: 1.0, opacity: 1)
-    static let primitiveColorPurple12 = Color(red: 1.0, green: 1.0, blue: 1.0, opacity: 1)
+    static let primitiveColorPurple12 = Color(red: 0.50196, green: 0.31765, blue: 1.0, opacity: 1)
     static let primitiveColorPurple13 = Color(red: 0.44314, green: 0.14902, blue: 1.0, opacity: 1)
     static let primitiveColorPurple14 = Color(red: 0.34118, green: 0.0, blue: 0.81961, opacity: 1)
     static let primitiveColorPurple15 = Color(red: 0.23137, green: 0.0, blue: 0.57647, opacity: 1)
